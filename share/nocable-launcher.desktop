@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NoCable Launcher
+Comment=Launch Rocksmith 2014 without a RealTone cable (Proton)
+Exec=nocable-launcher
+Terminal=false
+Categories=Game;
+Keywords=Rocksmith;Proton;guitar;
