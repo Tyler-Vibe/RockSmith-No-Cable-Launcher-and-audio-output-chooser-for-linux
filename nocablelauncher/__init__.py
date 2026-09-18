@@ -1,0 +1,1 @@
+"""NoCable Launcher for Linux."""
