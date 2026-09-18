@@ -1,0 +1,13 @@
+NoCable Launcher for Linux
+
+Linux port maintained by Tyler-Vibe.
+Based on the approach and cable signature documented in Maxx53/NoCableLauncher:
+https://github.com/Maxx53/NoCableLauncher (GPL-2.0).
+Historical multiplayer inspiration: phobos2077's AutoIt nocable script.
+
+The public PSARC format constants are used for archive interoperability.
+The game, Proton, GTK, PipeWire, Python libraries, and archive utilities are
+separate dependencies with their own licenses; their binaries are not included.
+
+This source distribution is provided under GNU GPL version 2 (see LICENSE).
+It includes no Ubisoft game assets and is not endorsed by Ubisoft.
